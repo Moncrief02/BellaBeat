@@ -11,3 +11,4 @@
  4. A summary of your analysis
  5. Suppo ing visualizations and key ndings
  6. Your top high-level content recommendations based on your analysis
+https://public.tableau.com/app/profile/moncrief.frazier/viz/StockOverview_17645631504210/Dashboard2?publish=yes
